@@ -1,34 +1,33 @@
 # Cybersecurity-project
-# Overview
-This project explores the evolution of cryptographic techniques from ancient ciphers to modern-day algorithms. It covers classical and modern algorithms such as SHA and AES, discusses known Common Vulnerabilities and Exposures (CVEs), and provides insights into future trends including emerging cryptographic methods.
 
-Contents
-Historical cryptographic methods including substitution and transposition ciphers
+# Cryptographic Algorithms - Past, Present, and Future
 
-Modern symmetric and asymmetric algorithms with examples (AES, SHA family)
+## Overview
+This project explores the evolution of cryptographic techniques from ancient ciphers to modern-day algorithms. It covers classical and modern algorithms such as SHA and AES, discusses Common Vulnerabilities and Exposures (CVEs), and provides insights into future trends and emerging cryptographic methods.
 
-CVEs related to cryptographic implementations and their impact
+## Contents
+- Historical cryptographic methods including substitution and transposition ciphers
+- Modern symmetric and asymmetric algorithms with examples like AES and SHA variants
+- Common Vulnerabilities and Exposures (CVEs) related to cryptography implementations
+- Future directions including post-quantum cryptography and advanced protocols
 
-Future directions such as post-quantum cryptography and advanced protocols
+## Features
+- Clear implementations and explanations of cryptographic algorithms
+- Overview of cryptographic vulnerabilities and security advisories
+- Discussion on the evolution of cryptographic standards and upcoming challenges
 
-Features
-Clear implementations and explanations of cryptographic algorithms
+## Algorithms Included
+- SHA (Secure Hash Algorithms) family
+- AES (Advanced Encryption Standard)
+- Various other classical and modern cryptographic techniques
 
-Overview of cryptographic vulnerabilities and security advisories (CVEs)
+## Usage
+To use or test the cryptographic algorithms, follow the instructions provided in the respective code files.
 
-Discussion on cryptographic standards evolution and future challenges
+## Resources
+- Refer to cryptographic standards and research papers for deeper understanding
+- CVE databases for tracking vulnerabilities in cryptographic systems
 
-Algorithms Included
-SHA (Secure Hash Algorithms) variants
+## License
+Specify the license under which this project is shared, e.g. MIT License
 
-AES (Advanced Encryption Standard)
-
-Other classical and modern cryptographic methods
-
-Usage
-Instructions on how to run or test the cryptographic algorithms (if applicable).
-
-Resources
-References to cryptographic standards and academic papers
-
-Links to CVE databases for ongoing vulnerability tracking
