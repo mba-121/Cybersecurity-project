@@ -22,7 +22,7 @@ This project explores the evolution of cryptographic techniques from ancient cip
 - Various other classical and modern cryptographic techniques
 
 ## Usage
-To use or test the cryptographic algorithms, follow the instructions provided in the respective code files.
+The cryptographic algorithms are used and code file is attached.
 
 ## Resources
 - Refer to cryptographic standards and research papers for deeper understanding
